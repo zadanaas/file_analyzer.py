@@ -11,4 +11,8 @@ It scans directories, collects file metadata, calculates hashes, and flags suspi
 
 ## 🧩 Usage
 ```bash
-python file_analyzer.py
+
+cd file_analyzer.py
+mv "python file_analyzer.py" file_analyzer.py
+ls
+python3 file_analyzer.py
